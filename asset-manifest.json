@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shani943.github.io/nara-news/static/css/main.073c9b0a.css",
-    "main.js": "/shani943.github.io/nara-news/static/js/main.abcd6ca7.js",
+    "main.js": "/shani943.github.io/nara-news/static/js/main.0425b5f4.js",
     "static/js/787.998b4c01.chunk.js": "/shani943.github.io/nara-news/static/js/787.998b4c01.chunk.js",
     "index.html": "/shani943.github.io/nara-news/index.html",
     "main.073c9b0a.css.map": "/shani943.github.io/nara-news/static/css/main.073c9b0a.css.map",
-    "main.abcd6ca7.js.map": "/shani943.github.io/nara-news/static/js/main.abcd6ca7.js.map",
+    "main.0425b5f4.js.map": "/shani943.github.io/nara-news/static/js/main.0425b5f4.js.map",
     "787.998b4c01.chunk.js.map": "/shani943.github.io/nara-news/static/js/787.998b4c01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.abcd6ca7.js"
+    "static/js/main.0425b5f4.js"
   ]
 }
